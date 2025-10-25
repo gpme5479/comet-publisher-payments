@@ -6,6 +6,8 @@ So here's the thing: a startup called Perplexity just announced they're splittin
 
 The model is simple on paper—publishers get 80% of subscription revenue when their content gets cited, visited, or used by Comet's AI assistant. Perplexity keeps 20%. The question is whether this is a genuine alternative to Google's search monopoly, or just a Band-Aid on a much bigger problem: AI platforms consuming content without paying for it.
 
+<img width="1247" height="702" alt="image" src="https://github.com/user-attachments/assets/e4f0a2a9-9e6f-4ea2-a779-e8a318ab142d" />
+
 ---
 
 ## What Perplexity Is Doing (and Why It's Different)
